@@ -6,7 +6,6 @@ většinou pro sběr a hodnocení vypracovávaných úloh. Pslib-studium je tak 
 ## C#
 |Rok|Třída|Účel/Úloha|
 |---|---|---|
-|2025|P2A|[Příklady z výuky](https://github.com/pslib-studium/Csharp2025P2A)|
 |2025|P2B|[Příklady z výuky](https://github.com/pslib-studium/PRG-Csharp-2025-P2B)|
 |2024|P2A|[Příklady z výuky](https://github.com/pslib-studium/Csharp2024P2A)|
 |2024|P2A|[Příklady z výuky4](https://github.com/pslib-studium/Csharp2024P2A)|
